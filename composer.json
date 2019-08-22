@@ -7,7 +7,7 @@
         "cors",
         "lumen",
         "laravel",
-        "cross-origin",
+        "cross-origin"
     ],
     "license": "MIT",
     "homepage": "https://github.com/binjuhor/lumen-cors",
