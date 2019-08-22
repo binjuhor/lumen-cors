@@ -9,11 +9,7 @@ After you install lumen as per [lumen docs](http://lumen.laravel.com/docs/instal
 
 ### Install with [Composer](https://packagist.org/packages/palanik/lumen-cors) ###
 
-Run `composer require "binjuhor/lumen-cors:dev-master"` to install lumen-cors.
-
-### Manual Installation
-
-Copy the file CorsMiddleware.php into `app/Http/Middleware` directory.
+Run `composer require binjuhor/lumen-cors` to install lumen-cors.
 
 ## Usage
 
