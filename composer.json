@@ -1,0 +1,27 @@
+{
+    "name": "binjuhor/lumen-cors",
+    "description": "Cross-origin resource sharing (CORS). Add CORS middleware for Lumen micro-framework",
+    "keywords": [
+        "corslumen",
+        "lumencors",
+        "cors",
+        "lumen",
+        "laravel",
+        "cross-origin",
+    ],
+    "license": "MIT",
+    "homepage": "https://github.com/binjuhor/lumen-cors",
+    "authors": [
+        {
+            "name": "binjuhor"
+        }
+    ],
+    "require": {
+        "php": "^7.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Binjuhor\\Lumen\\Middleware\\": "."
+        }
+    }
+}
