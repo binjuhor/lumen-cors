@@ -7,7 +7,7 @@ Lumen-CORS
 
 After you install lumen as per [lumen docs](http://lumen.laravel.com/docs/installation#install-lumen), install lumen-cors from `lumen` folder.
 
-### Install with [Composer](https://packagist.org/packages/palanik/lumen-cors) ###
+### Install with [Composer](https://packagist.org/packages/binjuhor/lumen-cors) ###
 
 Run `composer require binjuhor/lumen-cors` to install lumen-cors.
 
@@ -40,7 +40,7 @@ $app->get('/api/products', ['middleware' => 'cors', function() {
 }]);
 ```
 
-More info. - http://lumen.laravel.com/docs/middleware#registering-middleware
+More info. - [Lumen Registering Middleware](http://lumen.laravel.com/docs/middleware#registering-middleware)
 
 ## License
 
